@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RobotInterfaceProject>
+  <RobotInterfaceProject>
+    <SimulationMap>
+      <Toolpaths>
+        <Toolpath ID="4a4fca705fcb681e0002bb0a00000000" Name="1" />
+      </Toolpaths>
+      <FixtureOffsets />
+    </SimulationMap>
+    <LastUsed>
+      <Robot Name="" />
+      <Collision State="True" />
+      <Cell OriginID="" Configuration="" />
+      <Display ToolWorkplane="True" />
+      <PRIPost2 Origin="" />
+    </LastUsed>
+  </RobotInterfaceProject>
+  <PowerMill YearVersion="2018" Version="2020.000" Codebase="2020008" Project="powermill project" />
+  <RobotInterface Version="2020" Codebase="11.0.23" />
+  <Computer Name="DESKTOP-MLKDC8K" Date="05-12-2020 11:21:17 AM UTC" />
+</RobotInterfaceProject>

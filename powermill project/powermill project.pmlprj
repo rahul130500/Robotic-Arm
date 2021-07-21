@@ -1,0 +1,10 @@
+7 4 2020000 2020008 64 # Entity Index (DO NOT EDIT!)
+0 2
+05 Dec 2020 16.51.17
+x253689505fcb65890000202700000000.pmlent pmlEntModel 'powershape model'
+x255b10205fcb65a10000288600000000.pmlent pmlEntLevel 'General'
+x49fab6b05fcb65a10000289d00000000.pmlent pmlEntLevel 'Surfaces'
+x1d7075a05fcb6632000106d400000000.pmlent pmlEntWorkplane '1'
+x1d6c5ae05fcb67870002486c00000000.pmlent pmlEntTool '1'
+x4a4fca705fcb681e0002bb0a00000000.pmlent pmlEntToolpath '1'
+x2104a1705fcb69a70005f2d500000000.pmlent pmlEntPattern '1'

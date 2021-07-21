@@ -1,0 +1,25 @@
+type list
+version 0
+Toolpath\
+Toolpath\1
+Group\
+Pattern\
+Pattern\1
+Workplane\
+Workplane\1
+Setup\
+FeatureGroup\
+Boundary\
+Macro\
+Featureset\
+NCProgram\
+Level\
+Level\General
+Level\Surfaces
+Tool\
+Tool\1
+Process\
+MachineTool\
+StockModel\
+Model\
+Model\powershape model
